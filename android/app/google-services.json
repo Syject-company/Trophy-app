@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74211529691",
+    "firebase_url": "https://irla-app.firebaseio.com",
+    "project_id": "irla-app",
+    "storage_bucket": "irla-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74211529691:android:768468d987d3654bcb4dfe",
+        "android_client_info": {
+          "package_name": "com.puls.trophyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74211529691-idqt6q2ed8p3sv5r4o8rkusb1a0dvgin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puls.trophyapp",
+            "certificate_hash": "65556445dedffe2e1d03478f0f917632e3671acb"
+          }
+        },
+        {
+          "client_id": "74211529691-d53dtee0pvo0v0jmrt22bvhdv8n86tss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUUEcQXCZEs3VcDIZWtQTwQinfWbYTxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74211529691-d53dtee0pvo0v0jmrt22bvhdv8n86tss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
